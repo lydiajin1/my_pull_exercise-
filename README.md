@@ -1,5 +1,6 @@
 # my_pull_exercise-
 
+My name is Lydia and this is my cool project for intro to programming!!
 
 This is my favorite 8am class. 
 
